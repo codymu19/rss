@@ -1,25 +1,196 @@
-<rss version="2.0">
-  <channel>
-    <title>Announcements Feed</title>
-    <link>https://teams.microsoft.com/l/message/19%3A4fd9744bd1f449f28e6cc77a4b1ab310%40thread.skype/1696608091229?groupId=a99ce3c4-e179-4eb8-a7c2-07ccf81b719a&tenantId=e6ac1d1f-d695-4ef1-91d4-94cddef8be11&createdTime=1696608091229&parentMessageId=1696608091229</link>
-    <description>Latest announcements and updates</description>
-
-    <item>
-      <title>General Announcement</title>
-      <link>https://teams.microsoft.com/l/message/19%3A4fd9744bd1f449f28e6cc77a4b1ab310%40thread.skype/1696608091229?groupId=a99ce3c4-e179-4eb8-a7c2-07ccf81b719a&tenantId=e6ac1d1f-d695-4ef1-91d4-94cddef8be11&createdTime=1696608091229&parentMessageId=1696608091229</link>
-      <description><![CDATA[
-        <div>
-          <div>
-            <at id="0">General</at>
-          </div>
-          <div>
-            There are still 2 afternoon shifts open for analysts this Saturday. We would prefer that you sign up, but if no one does we will need to assign someone. If you are assigned, you will be responsible for finding someone to replace you in the event you cannot be present.
-          </div>
-        </div>
-      ]]></description>
-    </item>
-
-    <!-- Additional items can be added for more announcements -->
-
-  </channel>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<channel>
+<title>Newsroom RSS Feed</title>
+<itunes:subtitle>Official Resource for Journalists, Media and the Public</itunes:subtitle>
+<link>newsroom.churchofjesuschrist.org</link>
+<description>This is an RSS feed from the Newsroom site of The Church of Jesus Christ of Latter-day Saints. Featured in this feed are the 25 latest news articles.</description>
+<language iso3="eng"/>
+<itunes:author>The Church of Jesus Christ of Latter-day Saints</itunes:author>
+<generator>Newsroom RSS Generator 1.0</generator>
+<copyright> © 2023 by Intellectual Reserve, Inc. All Rights Reserved.</copyright>
+<pubDate>Friday, 279 October 2023 11:02:59 -0700</pubDate>
+<lastBuildDate>Friday, 279 October 2023 11:02:59 -0700</lastBuildDate>
+<category domain="www.dmoz.org">Society/Religion_and_Spirituality/Christianity/Denominations/Latter_Day_Saints/Church_of_Jesus_Christ_of_Latter-day_Saints</category>
+<ttl>5</ttl>
+<image>
+<url>http://newsroom.churchofjesuschrist.org/assets/images/logo.png</url>
+<title>The Church of Jesus Christ of Latter-day Saints</title>
+<link>newsroom.churchofjesuschrist.org</link>
+</image>
+<item>
+<title>In Mexico, the Church of Jesus Christ Celebrates International Day of Peace with Other Faiths</title>
+<pubDate>2023-10-06</pubDate>
+<link>http://newsroom.churchofjesuschrist.org/article/mexico-international-day-of-peace</link>
+<guid>http://newsroom.churchofjesuschrist.org/article/mexico-international-day-of-peace</guid>
+<description>MEXICO CITY | Friday, 06 October 2023 | <p>In September, the Church of Jesus Christ joined other faiths in Mexico City to celebrate peace.</p><img src='//noticias-mx.laiglesiadejesucristo.org/media/960x540/Ceremonia-por-la-paz-coro-Insituto.jpg'/></description>
+</item>
+<item>
+<title>The Latest Temple News From the Church of Jesus Christ</title>
+<pubDate>2023-10-06</pubDate>
+<link>http://newsroom.churchofjesuschrist.org/article/temple-news-house-of-the-lord-2023</link>
+<guid>http://newsroom.churchofjesuschrist.org/article/temple-news-house-of-the-lord-2023</guid>
+<description>SALT LAKE CITY | Friday, 06 October 2023 | <p>This page provides a summary of recent news about the many houses of the Lord being built around the world by The Church of Jesus Christ of Latter-day Saints.</p><img src='/media/960x540/1d163d07eb6e11ed812beeeeac1e030984fd1319-min.jpeg'/></description>
+</item>
+<item>
+<title>Guest Artists Announced for 2023 Tabernacle Choir Christmas Concert</title>
+<pubDate>2023-10-06</pubDate>
+<link>http://newsroom.churchofjesuschrist.org/article/guest-artists-announced-2023-tabernacle-choir-christmas-concert</link>
+<guid>http://newsroom.churchofjesuschrist.org/article/guest-artists-announced-2023-tabernacle-choir-christmas-concert</guid>
+<description>Salt Lake City | Friday, 06 October 2023 | <p>Disney’s swashbuckling Aladdin, Michael Maliakel, and the beloved cook from the British TV series “Downton Abbey,” Lesley Nicol, will join The Tabernacle Choir at Temple Square for this year’s Christmas concert.</p><img src='/media/960x540/Michael-image.jpg'/></description>
+</item>
+<item>
+<title>October 2023 General Conference Talk Summaries, News and Announcements</title>
+<pubDate>2023-10-01</pubDate>
+<link>http://newsroom.churchofjesuschrist.org/article/october-2023-general-conference-talks-news-announcements</link>
+<guid>http://newsroom.churchofjesuschrist.org/article/october-2023-general-conference-talks-news-announcements</guid>
+<description>Salt Lake City | Sunday, 01 October 2023 | <p>A summary of the October 2023 general conference.</p><img src='/media/960x540/crop-jesus_christ-GC-2023-official.jpeg'/></description>
+</item>
+<item>
+<title>The Church of Jesus Christ Will Build 20 New Temples</title>
+<pubDate>2023-10-01</pubDate>
+<link>http://newsroom.churchofjesuschrist.org/article/october-2023-general-conference-temples</link>
+<guid>http://newsroom.churchofjesuschrist.org/article/october-2023-general-conference-temples</guid>
+<description>Salt Lake City | Sunday, 01 October 2023 | <p>The Church of Jesus Christ of Latter-day Saints will build 20 new houses of the Lord in the coming years. President Russell M. Nelson made this announcement in prerecorded remarks shown Sunday, October 1, 2023, in the final session of the semiannual general conference.</p><img src='//noticias-br.aigrejadejesuscristo.org/media/960x540/3745c50f201711ee856aeeeeac1e17da003cbd99-min.jpeg'/></description>
+</item>
+<item>
+<title>President Nelson Issues Conference Invitation to ‘Think Celestial,’ ‘Put Jesus Christ First’</title>
+<pubDate>2023-10-01</pubDate>
+<link>http://newsroom.churchofjesuschrist.org/article/prophet-summary-october-2023-general-conference</link>
+<guid>http://newsroom.churchofjesuschrist.org/article/prophet-summary-october-2023-general-conference</guid>
+<description>SALT LAKE CITY | Sunday, 01 October 2023 | <p><p>In his October 1 general conference message, President Russell M. Nelson said to “think celestial” and “put Jesus Christ first” when making a choice or being confronted with a dilemma, temptation, trial or opposition. Our choices now determine our eternity.</p></p><img src='/media/500x500/russell_m_nelson-oct2023.jpeg'/></description>
+</item>
+<item>
+<title>Summary of the Sunday Afternoon Session</title>
+<pubDate>2023-10-01</pubDate>
+<link>http://newsroom.churchofjesuschrist.org/article/october-2023-sunday-afternoon-talk-summaries</link>
+<guid>http://newsroom.churchofjesuschrist.org/article/october-2023-sunday-afternoon-talk-summaries</guid>
+<description>SALT LAKE CITY | Sunday, 01 October 2023 | <p>A summary of the Sunday afternoon session of the October 2023 general conference.</p><img src='/media/960x1280/20231001_152851_CBell_CMB01459.JPG'/></description>
+</item>
+<item>
+<title>Summary of the Sunday Morning Session</title>
+<pubDate>2023-10-01</pubDate>
+<link>http://newsroom.churchofjesuschrist.org/article/october-2023-sunday-morning-talk-summaries</link>
+<guid>http://newsroom.churchofjesuschrist.org/article/october-2023-sunday-morning-talk-summaries</guid>
+<description>SALT LAKE CITY | Sunday, 01 October 2023 | <p>A summary of the Sunday morning session of the October 2023 general conference.</p><img src='/media/960x1280/20231001_095905_CBell_CMB06101.JPG'/></description>
+</item>
+<item>
+<title>President Ballard Shares His Testimony of Jesus Christ</title>
+<pubDate>2023-10-01</pubDate>
+<link>http://newsroom.churchofjesuschrist.org/article/president-ballard-testimony-jesus-christ</link>
+<guid>http://newsroom.churchofjesuschrist.org/article/president-ballard-testimony-jesus-christ</guid>
+<description>Salt Lake City | Sunday, 01 October 2023 | <p><p>The following statement was shared with news media.</p></p><img src='/media/960x540/20230930_191258_LNilsson_LES17438C1.jpeg'/></description>
+</item>
+<item>
+<title>Apostle Describes the Global Church of Jesus Christ at Silicon Slopes Summit</title>
+<pubDate>2023-09-30</pubDate>
+<link>http://newsroom.churchofjesuschrist.org/article/elder-bednar-silicon-slopes</link>
+<guid>http://newsroom.churchofjesuschrist.org/article/elder-bednar-silicon-slopes</guid>
+<description>SALT LAKE CITY | Saturday, 30 September 2023 | <p>Elder David A. Bednar of the Quorum of the Twelve Apostles answering a variety of questions about The Church of Jesus Christ of Latter-day Saints at the Silicon Slopes Summit in the Delta Center in Salt Lake City.</p><img src='/media/960x540/Silicon-Slopes-Elder-Bednar-29-09-28-23.JPG'/></description>
+</item>
+<item>
+<title>Summary of the Saturday Evening Session</title>
+<pubDate>2023-09-30</pubDate>
+<link>http://newsroom.churchofjesuschrist.org/article/october-2023-saturday-evening-talk-summaries</link>
+<guid>http://newsroom.churchofjesuschrist.org/article/october-2023-saturday-evening-talk-summaries</guid>
+<description>SALT LAKE CITY | Saturday, 30 September 2023 | <p>A summary of the Saturday evening session of the October 2023 general conference.</p><img src='/media/500x500/20230930_052913_LNilsson_LES15957.JPG'/></description>
+</item>
+<item>
+<title>Summary of the Saturday Afternoon Session</title>
+<pubDate>2023-09-30</pubDate>
+<link>http://newsroom.churchofjesuschrist.org/article/october-2023-saturday-afternoon-talk-summaries</link>
+<guid>http://newsroom.churchofjesuschrist.org/article/october-2023-saturday-afternoon-talk-summaries</guid>
+<description>SALT LAKE CITY | Saturday, 30 September 2023 | <p>A summary of the Saturday afternoon session of the October 2023 general conference.</p><img src='/media/960x1280/20230930_112003_KGrunauer_KGC_6411.jpg'/></description>
+</item>
+<item>
+<title>Summary of the Saturday Morning Session</title>
+<pubDate>2023-09-30</pubDate>
+<link>http://newsroom.churchofjesuschrist.org/article/october-2023-saturday-morning-talk-summaries</link>
+<guid>http://newsroom.churchofjesuschrist.org/article/october-2023-saturday-morning-talk-summaries</guid>
+<description>SALT LAKE CITY | Saturday, 30 September 2023 | <p>A summary of the Saturday morning session of the October 2023 general conference.</p><img src='/media/960x720/20230929_203110_LNilsson_LES11333.JPG'/></description>
+</item>
+<item>
+<title>Tabernacle Choir’s Pilot Program Once Again Welcomes International Participants</title>
+<pubDate>2023-09-29</pubDate>
+<link>http://newsroom.churchofjesuschrist.org/article/tabernacle-choir-pilot-program-once-again-welcomes-international-participants</link>
+<guid>http://newsroom.churchofjesuschrist.org/article/tabernacle-choir-pilot-program-once-again-welcomes-international-participants</guid>
+<description>Salt Lake City | Friday, 29 September 2023 | <p>A new group of global singers is joining The Tabernacle Choir to sing during the October 2023 general conference as part of its pilot program launched during the April 2023 general conference.</p><img src='/media/960x540/20230928_131311_HWinterton_HMW_1858.jpg'/></description>
+</item>
+<item>
+<title>Sacred Hymnbook to Help Unite, Uplift Latter-day Saints of All Ages Worldwide </title>
+<pubDate>2023-09-29</pubDate>
+<link>http://newsroom.churchofjesuschrist.org/article/sacred-hymnbook-to-help-unite-uplift-latter-day-saints-of-all-ages-worldwide</link>
+<guid>http://newsroom.churchofjesuschrist.org/article/sacred-hymnbook-to-help-unite-uplift-latter-day-saints-of-all-ages-worldwide</guid>
+<description>SALT LAKE CITY | Friday, 29 September 2023 | <p>The Church plans to simultaneously release a single, consolidated sacred music collection of hymns and children's song <em>s </em> in four languages <em> </em> by the end of 2026. But most members will be able to access new music online as early as May 2024.</p><img src='/media/960x540/b5371ec5090911ec86fceeeeac1ed7dcf21c83a6.png'/></description>
+</item>
+<item>
+<title>Area Seventies Sustained and Released in General Conference Leadership Session</title>
+<pubDate>2023-09-28</pubDate>
+<link>http://newsroom.churchofjesuschrist.org/article/october-2023-general-conference-leadership-session</link>
+<guid>http://newsroom.churchofjesuschrist.org/article/october-2023-general-conference-leadership-session</guid>
+<description>Salt Lake City | Thursday, 28 September 2023 | <p>At the general conference leadership session of The Church of Jesus Christ of Latter-day Saints on Thursday, September 28, 2023, two new Area Seventies were sustained and two were released.</p><img src='/media/960x540/20221001_075548_CBell_110_1664633642670_photo_optimized.jpg'/></description>
+</item>
+<item>
+<title>A General Conference Message from the Prophet</title>
+<pubDate>2023-09-28</pubDate>
+<link>http://newsroom.churchofjesuschrist.org/article/general-conference-message-president-nelson</link>
+<guid>http://newsroom.churchofjesuschrist.org/article/general-conference-message-president-nelson</guid>
+<description>Salt Lake City | Thursday, 28 September 2023 | <p><p>As we prepare for this weekend’s general conference of The Church of Jesus Christ of Latter-day Saints, President Russell M. Nelson, who recently celebrated his 99th birthday, has shared his plans for participation.</p></p><img src='/media/960x540/RMN-smile.jpg'/></description>
+</item>
+<item>
+<title>What General Conference Visitors Will See with Temple Square Construction</title>
+<pubDate>2023-09-28</pubDate>
+<link>http://newsroom.churchofjesuschrist.org/article/what-general-conference-visitors-will-see-with-temple-square-construction</link>
+<guid>http://newsroom.churchofjesuschrist.org/article/what-general-conference-visitors-will-see-with-temple-square-construction</guid>
+<description>SALT LAKE CITY | Thursday, 28 September 2023 | <p>Construction on the Salt Lake Temple and surrounding Temple Square of The Church of Jesus Christ of Latter-day Saints continues to move forward.</p><img src='/media/960x1280/b65a127c540511eeb1c2eeeeac1e9c4cba400297.jpeg'/></description>
+</item>
+<item>
+<title>Relief Society and Young Women General Presidents Offer Love and Support in Maui Ministry</title>
+<pubDate>2023-09-28</pubDate>
+<link>http://newsroom.churchofjesuschrist.org/article/relief-society-young-women-presidents-offer-love-support-maui-ministry</link>
+<guid>http://newsroom.churchofjesuschrist.org/article/relief-society-young-women-presidents-offer-love-support-maui-ministry</guid>
+<description>SALT LAKE CITY | Thursday, 28 September 2023 | <p><p>“Because you, our friends, are mourning, we are mourning,” Relief Society General President Camille N. Johnson told Latter-days Saints affected by the devastating August fire on Maui that took homes and lives.</p></p><img src='/media/960x1280/IMG_5054.jpeg'/></description>
+</item>
+<item>
+<title>The October 2023 Edition of the World Report</title>
+<pubDate>2023-09-27</pubDate>
+<link>http://newsroom.churchofjesuschrist.org/article/october-2023-the-world-report</link>
+<guid>http://newsroom.churchofjesuschrist.org/article/october-2023-the-world-report</guid>
+<description>Salt Lake City | Wednesday, 27 September 2023 | <p><p>The October 2023 edition of the World Report, a semiannual compilation of news from The Church of Jesus Christ of Latter-day Saints, is now available on Church Newsroom and YouTube.</p></p><img src='/media/960x540/20230324_210836_LES_LES_5791.jpg'/></description>
+</item>
+<item>
+<title>President of Hungary Discusses Faith and Family at BYU</title>
+<pubDate>2023-09-27</pubDate>
+<link>http://newsroom.churchofjesuschrist.org/article/president-hungary-discusses-faith-and-family-byu</link>
+<guid>http://newsroom.churchofjesuschrist.org/article/president-hungary-discusses-faith-and-family-byu</guid>
+<description>PROVO, Utah | Wednesday, 27 September 2023 | <p>Hungarian President Katalin Novák met with students and faculty at Brigham Young University (BYU) in Provo, Utah, this week to share her insights on faith and family and to learn about the students’ plans for the future. She also met with the First Presidency. </p><img src='/media/500x500/20230926_123423_LES_DSC_4033C1.jpg'/></description>
+</item>
+<item>
+<title>The Growth and Momentum of the Church Educational System</title>
+<pubDate>2023-09-25</pubDate>
+<link>http://newsroom.churchofjesuschrist.org/article/growth-momentum-church-educational-system</link>
+<guid>http://newsroom.churchofjesuschrist.org/article/growth-momentum-church-educational-system</guid>
+<description>Salt Lake City | Monday, 25 September 2023 | <p>Approximately 150,000 students are filling the higher education offerings of The Church of Jesus Christ of Latter-day Saints this year — more than any previous year.</p><img src='/media/960x540/230803_PresidentMeredith_93.jpg'/></description>
+</item>
+<item>
+<title>200 Years Ago: An Angel’s Visit that Led to the Book of Mormon</title>
+<pubDate>2023-09-21</pubDate>
+<link>http://newsroom.churchofjesuschrist.org/article/200-years-angel-moroni-book-of-mormon</link>
+<guid>http://newsroom.churchofjesuschrist.org/article/200-years-angel-moroni-book-of-mormon</guid>
+<description>Salt Lake City | Thursday, 21 September 2023 | <p>September 21 is a significant day in the history of The Church of Jesus Christ of Latter-day Saints.</p><img src='/media/960x720/d1b1c2b87be48ca64ec07921c0b16f1282b85073.png'/></description>
+</item>
+<item>
+<title>Public Invited to Tour the Okinawa Japan Temple</title>
+<pubDate>2023-09-21</pubDate>
+<link>http://newsroom.churchofjesuschrist.org/article/public-invited-to-tour-the-okinawa-japan-temple</link>
+<guid>http://newsroom.churchofjesuschrist.org/article/public-invited-to-tour-the-okinawa-japan-temple</guid>
+<description>OKINAWA, Japan | Thursday, 21 September 2023 | <p>The Church of Jesus Christ of Latter-day Saints invites the public to visit the Okinawa Japan Temple, the fourth of its kind in Japan. Other temples are in Fukuoka, Sapporo and Tokyo.</p><img src='/media/960x720/90f777d0202511ee8f0eeeeeac1eeda9b7debddc.jpeg'/></description>
+</item>
+<item>
+<title>Church Leaders Inaugurate Shane Reese as 14th President of BYU</title>
+<pubDate>2023-09-19</pubDate>
+<link>http://newsroom.churchofjesuschrist.org/article/church-leaders-inaugurate-shane-reese-as-14th-president-of-byu</link>
+<guid>http://newsroom.churchofjesuschrist.org/article/church-leaders-inaugurate-shane-reese-as-14th-president-of-byu</guid>
+<description>PROVO, Utah | Tuesday, 19 September 2023 | <p>President Oaks, Elder Christofferson, Elder Rasband and President Johnson participate in inaugural ceremony for BYU’s next leader. “We love you; we honor you, and we sustain you in this office,” said Elder D. Todd Christofferson told the new president, C. Shane Reese.</p><img src='/media/960x720/Reese-Inaguration-1.jpeg'/></description>
+</item>
+</channel>
 </rss>
