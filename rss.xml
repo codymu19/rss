@@ -1,0 +1,25 @@
+<rss version="2.0">
+  <channel>
+    <title>Announcements Feed</title>
+    <link>https://teams.microsoft.com/l/message/19%3A4fd9744bd1f449f28e6cc77a4b1ab310%40thread.skype/1696608091229?groupId=a99ce3c4-e179-4eb8-a7c2-07ccf81b719a&tenantId=e6ac1d1f-d695-4ef1-91d4-94cddef8be11&createdTime=1696608091229&parentMessageId=1696608091229</link>
+    <description>Latest announcements and updates</description>
+
+    <item>
+      <title>General Announcement</title>
+      <link>https://teams.microsoft.com/l/message/19%3A4fd9744bd1f449f28e6cc77a4b1ab310%40thread.skype/1696608091229?groupId=a99ce3c4-e179-4eb8-a7c2-07ccf81b719a&tenantId=e6ac1d1f-d695-4ef1-91d4-94cddef8be11&createdTime=1696608091229&parentMessageId=1696608091229</link>
+      <description><![CDATA[
+        <div>
+          <div>
+            <at id="0">General</at>
+          </div>
+          <div>
+            There are still 2 afternoon shifts open for analysts this Saturday. We would prefer that you sign up, but if no one does we will need to assign someone. If you are assigned, you will be responsible for finding someone to replace you in the event you cannot be present.
+          </div>
+        </div>
+      ]]></description>
+    </item>
+
+    <!-- Additional items can be added for more announcements -->
+
+  </channel>
+</rss>
