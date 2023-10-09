@@ -1,4 +1,5 @@
-<rss version="2.0"><channel><item><title>Your Title</title><description>General
+<rss version="2.0"><channel>
+        <item><title>Your Title</title><description>General
 &#160;
 I have a couple of issues that I have seen lately that I want you to be aware of.&#160;
 &#160;
@@ -17,5 +18,10 @@ profile and their phone number has changed, please edit the profile and add the 
 <link>http://newsroom.churchofjesuschrist.org/article/mexico-international-day-of-peace</link>
 <guid>http://newsroom.churchofjesuschrist.org/article/mexico-international-day-of-peace</guid>
 <description>MEXICO CITY | Friday, 06 October 2023 | <p>In September, the Church of Jesus Christ joined other faiths in Mexico City to celebrate peace.</p><img src='//noticias-mx.laiglesiadejesucristo.org/media/960x540/Ceremonia-por-la-paz-coro-Insituto.jpg'/></description>
+</item>
+<item>
+        <title>Fredddddddddddddd</title>
+        <link>https://teams.microsoft.com/l/message/19:4fd9744bd1f449f28e6cc77a4b1ab310@thread.skype/1696608091229?tenantId=e6ac1d1f-d695-4ef1-91d4-94cddef8be11&groupId=a99ce3c4-e179-4eb8-a7c2-07ccf81b719a&parentMessageId=1696608091229&teamName=IT%20Service%20Desk&channelName=General&createdTime=1696608091229&allowXTenantAccess=false</link>
+        <description>Afternoon shifts open</description>
 </item>
 </channel></rss>
