@@ -1,17 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
-    <channel>
-        <item>
-            <title>Your Title</title>
-            <description><![CDATA[
-                General
-                I have a couple of issues that I have seen lately that I want you to be aware of.
-                When helping campus students and you can't get a resolution, send them to the help desk in MC 114. I have seen a few tickets where students have issues with their computer/software that Tier 2 could most likely help them with.
-                Be sure to get the right profile in TD. When you pull up a profile and you aren't sure it is them, ask them if the email or phone number in the profile belongs to them or use to belong to them. Also, if you do have the right profile and their phone number has changed, please edit the profile and add the new phone number. This happens a lot when we are helping Alumni.
-            ]]></description>
-            <pubDate>Fri, 06 Oct 2023 13:06:16 GMT</pubDate>
-            <link>https://example.com/your-title</link>
-            <guid>https://example.com/your-title</guid>
-        </item>
-        <!-- ... (other items) ... -->
-    </channel>
+
+<channel>
+  <title>W3Schools Home Page</title>
+  <link>https://www.w3schools.com</link>
+  <description>Free web building tutorials</description>
+  <item>
+    <title>RSS Tutorial</title>
+    <link>https://www.w3schools.com/xml/xml_rss.asp</link>
+    <description>New RSS tutorial on W3Schools</description>
+  </item>
+  <item>
+    <title>XML Tutorial</title>
+    <link>https://www.w3schools.com/xml</link>
+    <description>New XML tutorial on W3Schools</description>
+  </item>
+</channel>
+
 </rss>
