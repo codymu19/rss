@@ -1,27 +1,27 @@
-<rss version="2.0"><channel>
-        <item><title>Your Title</title><description>General
-&#160;
-I have a couple of issues that I have seen lately that I want you to be aware of.&#160;
-&#160;
-
-&#160;When helping campus students and you can't get a resolution, send them to the help desk in MC 114. I have seen a few tickets where students have issues with their computer/software that Tier 2 could most likely help them with.&#160;
+<rss version="2.0">
+    <channel>
+        <item>
+            <title>Your Title</title>
+            <description>General
+I have a couple of issues that I have seen lately that I want you to be aware of.
+When helping campus students and you can't get a resolution, send them to the help desk in MC 114. I have seen a few tickets where students have issues with their computer/software that Tier 2 could most likely help them with.
 Be sure to get the right profile in TD. When you pull up a profile and you aren't sure it is them, ask them if the email or phone number in the profile belongs to them or use to belong to them. Also, if you do have the right 
-profile and their phone number has changed, please edit the profile and add the new phone number. This happens a lot when we are helping Alumni.&#160;
-
-
-        &#160;
-
-</description><pubDate>Fri, 06 Oct 2023 13:06:16 </pubDate></item>
-<item>
-<title>In Mexico, the Church of Jesus Christ Celebrates International Day of Peace with Other Faiths</title>
-<pubDate>2023-10-06</pubDate>
-<link>http://newsroom.churchofjesuschrist.org/article/mexico-international-day-of-peace</link>
-<guid>http://newsroom.churchofjesuschrist.org/article/mexico-international-day-of-peace</guid>
-<description>MEXICO CITY | Friday, 06 October 2023 | <p>In September, the Church of Jesus Christ joined other faiths in Mexico City to celebrate peace.</p><img src='//noticias-mx.laiglesiadejesucristo.org/media/960x540/Ceremonia-por-la-paz-coro-Insituto.jpg'/></description>
-</item>
-<item>
-        <title>Fredddddddddddddd</title>
-        <link>https://teams.microsoft.com/l/message/19:4fd9744bd1f449f28e6cc77a4b1ab310@thread.skype/1696608091229?tenantId=e6ac1d1f-d695-4ef1-91d4-94cddef8be11&groupId=a99ce3c4-e179-4eb8-a7c2-07ccf81b719a&parentMessageId=1696608091229&teamName=IT%20Service%20Desk&channelName=General&createdTime=1696608091229&allowXTenantAccess=false</link>
-        <description>Afternoon shifts open</description>
-</item>
-</channel></rss>
+profile and their phone number has changed, please edit the profile and add the new phone number. This happens a lot when we are helping Alumni.
+            </description>
+            <pubDate>Fri, 06 Oct 2023 13:06:16 GMT</pubDate>
+            <link>https://example.com/your-title</link>
+        </item>
+        <item>
+            <title>In Mexico, the Church of Jesus Christ Celebrates International Day of Peace with Other Faiths</title>
+            <pubDate>Fri, 06 Oct 2023 00:00:00 GMT</pubDate>
+            <link>http://newsroom.churchofjesuschrist.org/article/mexico-international-day-of-peace</link>
+            <guid>http://newsroom.churchofjesuschrist.org/article/mexico-international-day-of-peace</guid>
+            <description>MEXICO CITY | Friday, 06 October 2023 | <p>In September, the Church of Jesus Christ joined other faiths in Mexico City to celebrate peace.</p><img src='//noticias-mx.laiglesiadejesucristo.org/media/960x540/Ceremonia-por-la-paz-coro-Insituto.jpg'/></description>
+        </item>
+        <item>
+            <title>Fredddddddddddddd</title>
+            <link>https://teams.microsoft.com/l/message/19:4fd9744bd1f449f28e6cc77a4b1ab310@thread.skype/1696608091229?tenantId=e6ac1d1f-d695-4ef1-91d4-94cddef8be11&groupId=a99ce3c4-e179-4eb8-a7c2-07ccf81b719a&parentMessageId=1696608091229&teamName=IT%20Service%20Desk&channelName=General&createdTime=1696608091229&allowXTenantAccess=false</link>
+            <description>Afternoon shifts open</description>
+        </item>
+    </channel>
+</rss>
